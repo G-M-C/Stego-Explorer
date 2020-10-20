@@ -1,5 +1,5 @@
 # Stego-Explorer
-This repository explores various steganography methods \
+This repository explores various steganography methods </br>
 
 ## What is Steganography ? 
 https://en.wikipedia.org/wiki/Steganography.  
