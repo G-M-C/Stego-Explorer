@@ -41,7 +41,7 @@ def msg2binary(data):
     elif type(data) == int or type(data) == np.uint8:
         return format(data, "08b")
     else:
-        raise TypeError("The data you've entered if of an unsupported format")
+        raise TypeError("The data you've entered is of an unsupported format")
 
 def encode(img_name,msg):
 
